@@ -1,0 +1,8 @@
+Integrate mobile TON wallet connectivity for deposits and withdrawals
+
+Introduce TON Connect integration for mobile wallet connectivity, including a new `TonConnectProvider` and `MobileWalletIntegration` component, enabling deposits, withdrawals, and game participation with TON cryptocurrency.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: e39d96f3-e335-4967-a0aa-310bddf31735
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/3bd3dd9b-d727-4fc0-9d73-239040246dfc/e39d96f3-e335-4967-a0aa-310bddf31735/qnQFPca
